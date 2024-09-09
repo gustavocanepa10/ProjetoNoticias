@@ -28,6 +28,7 @@ div:nth-child(3) {
     padding-block: 14px;
     border: 1px solid var(--stroke-color);
     border-inline: none;
+    justify-content: space-between;
 }
 
 
