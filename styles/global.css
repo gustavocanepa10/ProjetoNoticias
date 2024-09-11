@@ -56,17 +56,11 @@ img {
     margin-inline: auto;
 }
 
+
 main {
     margin-top: 40px;
+    
 }
 
-/* utility-first */
 
-.grid {
-    display: grid;
-}
 
-.grid-flow-col {
-    grid-auto-flow: column;
-
-}
