@@ -7,7 +7,7 @@ O **Portal de Notícias** é uma aplicação web que apresenta as principais not
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML**: Estruturação das páginas e organização do conteúdo.
-- **CSS**: Estilização e design responsivo para diferentes dispositivos.
+- **CSS**: Estilização com FlexBox e Grid, design responsivo para diferentes dispositivos.
 
 ## ⚙️ Funcionalidades
 
